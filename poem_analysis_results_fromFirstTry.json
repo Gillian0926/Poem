@@ -1,0 +1,59 @@
+[
+  {
+    "title": "题都城南庄",
+    "author": "崔护",
+    "analysis_result": {
+      "date": 809,
+      "flower": "桃花",
+      "imagery": [
+        "物是人非",
+        "时光流逝",
+        "春色依旧",
+        "怅然若失"
+      ]
+    }
+  },
+  {
+    "title": "梅花",
+    "author": "王安石",
+    "analysis_result": {
+      "date": 1082,
+      "flower": "梅花",
+      "imagery": [
+        "孤傲",
+        "坚韧",
+        "高洁",
+        "暗香"
+      ]
+    }
+  },
+  {
+    "title": "饮酒",
+    "author": "陶渊明",
+    "analysis_result": {
+      "date": 405,
+      "flower": "菊花",
+      "imagery": [
+        "田园生活",
+        "自然美景",
+        "闲适心境",
+        "归隐情怀",
+        "天人合一"
+      ]
+    }
+  },
+  {
+    "title": "静夜思",
+    "author": "李白",
+    "analysis_result": {
+      "date": 726,
+      "flower": "无",
+      "imagery": [
+        "明月",
+        "思乡",
+        "孤独",
+        "怀旧"
+      ]
+    }
+  }
+]

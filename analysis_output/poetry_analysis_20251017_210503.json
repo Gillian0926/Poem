@@ -1,0 +1,338 @@
+{
+  "project": "唐宋词花卉意象分析",
+  "analysis_date": "2025-10-17 21:05:03",
+  "total_processed": 19,
+  "total_analyzed": 19,
+  "metadata": {
+    "output_dir": "analysis_output",
+    "file_created": "20251017_210503",
+    "api_tokens_used": 0
+  },
+  "results": [
+    {
+      "title": "无题",
+      "author": "欧阳修",
+      "content": "宝幄华灯相见夜，妆脸小桃红。 斗帐香檀翡翠笼。 携手恨匆匆。 金泥双结同心带，留与记情浓。 却望行云十二峰。 肠断月斜锺。",
+      "analysis": {
+        "date": 960,
+        "flower": "桃花",
+        "imagery": [
+          "宝幄华灯",
+          "斗帐香檀",
+          "金泥同心带",
+          "行云十二峰"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706214.997152
+    },
+    {
+      "title": "无题",
+      "author": "柳永",
+      "content": "佳娘捧板花钿簇。 唱出新声群艳伏。 金鹅扇掩调累累，文杏梁高尘簌簌。 鸾吟凤啸清相续。 管裂弦焦争可逐。 何当夜召入连昌，飞上九天歌一曲。",
+      "analysis": {
+        "date": 940,
+        "flower": "文杏",
+        "imagery": [
+          "金鹅扇",
+          "文杏梁",
+          "鸾吟凤啸",
+          "九天歌"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706218.8858616
+    },
+    {
+      "title": "无题",
+      "author": "张先",
+      "content": "佳人学得平阳曲。 纤纤玉笋横孤竹。 一弄入云声。 海门江月清。 髻摇金钿落。 惜恐樱唇薄。 听罢已依依。 莫吹杨柳枝。",
+      "analysis": {
+        "date": 940,
+        "flower": "杨柳",
+        "imagery": [
+          "玉笋横竹",
+          "海门江月"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706222.8797655
+    },
+    {
+      "title": "无题",
+      "author": "张先",
+      "content": "南园已恨归来晚。 芳菲满眼。 春工偏上好花多，疑不向、空枝暖。 惜恐红云易散。 丛丛看遍。 当时犹有蕊如梅，问几日上、东风绽。",
+      "analysis": {
+        "date": 960,
+        "flower": "梅花",
+        "imagery": [
+          "芳菲满眼",
+          "空枝暖",
+          "红云易散"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706226.6675239
+    },
+    {
+      "title": "无题",
+      "author": "张先",
+      "content": "华灯火树红相斗。 往来如昼。 桥河水白天青，讶别生星斗。 落梅秾李还依旧。 宝钗沽酒。 晓蟾残漏心情，恨雕鞍归后。",
+      "analysis": {
+        "date": 960,
+        "flower": "梅花、李花",
+        "imagery": [
+          "华灯火树",
+          "桥河星斗",
+          "晓蟾残漏"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706230.8665676
+    },
+    {
+      "title": "无题",
+      "author": "晏殊",
+      "content": "秋风吹绽北池莲。 曙云楼阁鲜。 画堂今日嘉会，齐拜玉炉烟。 斟美酒，祝芳筵。 奉觥船。 宜春耐夏，多福庄严，富贵长年。",
+      "analysis": {
+        "date": 960,
+        "flower": "莲花",
+        "imagery": [
+          "秋风吹绽北池莲",
+          "曙云楼阁",
+          "画堂嘉会",
+          "玉炉烟",
+          "觥船"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706234.9636545
+    },
+    {
+      "title": "无题",
+      "author": "欧阳修",
+      "content": "渐素景。 金风劲。 早是凄凉孤冷。 那堪闻、蛩吟穿金井。 唤愁绪难整。 懊恼人人薄幸。 负云期雨信。 终日望伊来，无凭准。 闷损我、也不定。",
+      "analysis": {
+        "date": 960,
+        "flower": "",
+        "imagery": [
+          "金风",
+          "蛩吟",
+          "金井",
+          "愁绪",
+          "云期雨信"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706238.8356323
+    },
+    {
+      "title": "无题",
+      "author": "柳永",
+      "content": "花心柳眼。 郎似游丝常惹绊。 慵困谁怜。 绣线金针不喜穿。 深房密宴。 争向好天多聚散。 绿锁窗前。 几日春愁废管弦。",
+      "analysis": {
+        "date": 960,
+        "flower": "花",
+        "imagery": [
+          "游丝惹绊",
+          "春愁废管弦"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706242.9575279
+    },
+    {
+      "title": "无题",
+      "author": "杜安世",
+      "content": "后约无凭。 往事堪惊。 秋蛩永夜绕床鸣。 展转寻思求好梦，还又难成。 愁思若浮云。 消尽重生。 佳人何处独盈盈。 可惜一天无用月，照空为谁明。",
+      "analysis": {
+        "date": 960,
+        "flower": "",
+        "imagery": [
+          "秋蛩",
+          "浮云",
+          "明月"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760706246.7410984
+    },
+    {
+      "title": "无题",
+      "author": "晏几道",
+      "content": "金翦刀头芳意动。 彩蕊开时，不怕朝寒重。 晴雪半消花䰒䰄。 晓妆呵尽香酥冻。 十二楼中双翠凤。 缥缈歌声，记得江南弄。 醉舞春风谁可共。 秦云已有鸳屏梦。",
+      "analysis": {
+        "date": 1082,
+        "flower": "梅花",
+        "imagery": [
+          "晴雪消花",
+          "醉舞春风",
+          "鸳屏梦"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706264.1470559
+    },
+    {
+      "title": "无题",
+      "author": "舒亶",
+      "content": "琉璃一片春湖面。 画舫游人帘外见。 水边风嫩柳低眠，花底雨乾莺细啭。 秋千寂寂垂杨岸。 芳草绿随人渐远。 一番乐事又将离。 金盏莫辞红袖劝。",
+      "analysis": {
+        "date": 960,
+        "flower": "花",
+        "imagery": [
+          "春湖",
+          "画舫",
+          "垂柳",
+          "莺啼",
+          "秋千",
+          "芳草"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706268.6529124
+    },
+    {
+      "title": "无题",
+      "author": "韦骧",
+      "content": "岁华将暮，寒林萧索，极目冻云垂地。 官梅忽见一枝芳，便顿觉、新春情味。 小筵开处，歌喉清婉，舞态蹁跹争媚。 沈腰潘鬓两休论，共举白、何须惜醉。",
+      "analysis": {
+        "date": 1127,
+        "flower": "梅花",
+        "imagery": [
+          "岁华将暮",
+          "寒林萧索",
+          "冻云垂地",
+          "官梅芳华",
+          "歌喉清婉",
+          "舞态蹁跹",
+          "共举白醉"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706273.6616685
+    },
+    {
+      "title": "无题",
+      "author": "李之仪",
+      "content": "青梅又是花时节。 粉墙闲把青梅折。 玉镫偶逢君。 春情如乱云。 藕丝牵不断。 谁信朱颜换。 莫厌十分斟。 酒深情更深。",
+      "analysis": {
+        "date": 1127,
+        "flower": "青梅",
+        "imagery": [
+          "青梅",
+          "粉墙",
+          "玉镫",
+          "春情",
+          "藕丝",
+          "朱颜",
+          "酒深"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706278.3775535
+    },
+    {
+      "title": "无题",
+      "author": "晏几道",
+      "content": "一曲画楼钟动，宛转歌声缓。 绮席飞尘满。 更少待、金蕉暖。 细雨轻寒今夜短。 依前是、粉墙别馆。 端的欢期应未晚。 奈归云难管。",
+      "analysis": {
+        "date": 1080,
+        "flower": "",
+        "imagery": [
+          "画楼钟动",
+          "绮席飞尘",
+          "细雨轻寒",
+          "粉墙别馆"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706282.892711
+    },
+    {
+      "title": "无题",
+      "author": "苏轼",
+      "content": "醉漾轻舟，信流引到花深处。 尘缘相误。 无计花间住。 烟水茫茫，千里斜阳暮。 山无数。 乱红如雨。 不记来时路。",
+      "analysis": {
+        "date": 1082,
+        "flower": "桃花",
+        "imagery": [
+          "轻舟",
+          "花深处",
+          "烟水茫茫",
+          "斜阳暮",
+          "山无数",
+          "乱红如雨"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706287.4939408
+    },
+    {
+      "title": "无题",
+      "author": "苏轼",
+      "content": "簌簌衣巾落枣花。 村南村北响缲车。 牛衣古柳卖黄瓜。 酒困路长惟欲睡，日高人渴漫思茶。 敲门试问野人家。",
+      "analysis": {
+        "date": 1078,
+        "flower": "枣花",
+        "imagery": [
+          "衣巾落花",
+          "缲车作响",
+          "古柳卖瓜"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706291.4882512
+    },
+    {
+      "title": "无题",
+      "author": "王安国",
+      "content": "留春不住。 费尽莺儿语。 满地残红宫锦污。 昨夜南园风雨。 小怜初上琵琶。 晓来思绕天涯。 不肯画堂朱户，春风自在梨花。",
+      "analysis": {
+        "date": 1040,
+        "flower": "梨花",
+        "imagery": [
+          "残红满地",
+          "风雨南园",
+          "琵琶声怨",
+          "春风梨花"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706295.7915986
+    },
+    {
+      "title": "无题",
+      "author": "苏轼",
+      "content": "娇多媚。 体柳轻盈千万态。 殢主尤宾。 敛黛含嚬喜又嗔。 徐君乐饮。 笑谑从伊情意恁。 脸嫩敷红。 花倚朱阑裹住风。",
+      "analysis": {
+        "date": 960,
+        "flower": "花",
+        "imagery": [
+          "体柳轻盈",
+          "脸嫩敷红",
+          "花倚朱阑"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706299.792011
+    },
+    {
+      "title": "无题",
+      "author": "苏轼",
+      "content": "霜鬓真堪插拒霜。 哀弦危柱作《伊凉》。 暂时流转为风光。 未遣清尊空北海，莫因《长笛》赋山阳。 金钗玉腕泻鹅黄。",
+      "analysis": {
+        "date": 1082,
+        "flower": "拒霜（木芙蓉）",
+        "imagery": [
+          "霜鬓",
+          "哀弦危柱",
+          "清尊北海",
+          "金钗玉腕"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760706303.9811692
+    }
+  ]
+}

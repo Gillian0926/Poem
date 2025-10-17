@@ -1,0 +1,260 @@
+{
+  "project": "唐宋词花卉意象分析",
+  "analysis_date": "2025-10-17 19:57:32",
+  "total_processed": 15,
+  "total_analyzed": 15,
+  "metadata": {
+    "output_dir": "analysis_output",
+    "file_created": "20251017_195732",
+    "api_tokens_used": 0
+  },
+  "results": [
+    {
+      "title": "无题",
+      "author": "欧阳修",
+      "content": "梅梢弄粉香犹嫩。 欲寄江南春信。 别后寸肠萦损。 说与伊争稳。 小炉独守寒灰尽。 忍泪低头画尽。 眉上万重新恨。 竟日无人问。",
+      "analysis": {
+        "date": 960,
+        "flower": "梅花",
+        "imagery": [
+          "梅梢弄粉",
+          "寒灰独守",
+          "眉上新恨"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760702183.8451796
+    },
+    {
+      "title": "无题",
+      "author": "张先",
+      "content": "夜月啼乌促乱弦。 江树远无烟。 缺多圆少奈何天。 愁只恐、下关山。 粉香生润，衣珠弄彩，人月两蝉娟。 留连残夜惜馀欢。 人月在、又明年。",
+      "analysis": {
+        "date": 1644,
+        "flower": "",
+        "imagery": [
+          "夜月",
+          "啼乌",
+          "江树",
+          "关山",
+          "人月蝉娟"
+        ]
+      },
+      "source_file": "ci.song.0.json",
+      "analysis_timestamp": 1760702187.751107
+    },
+    {
+      "title": "无题",
+      "author": "晏几道",
+      "content": "可怜娇小。 掌上承恩早。 把镜不知人易老。 欲占朱颜长好。 画堂秋月佳期。 藏钩赌酒归迟。 红烛泪前低语，绿笺花里新词。",
+      "analysis": {
+        "date": 940,
+        "flower": "花（泛指）",
+        "imagery": [
+          "朱颜长好",
+          "红烛泪前低语"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760702191.832292
+    },
+    {
+      "title": "无题",
+      "author": "晏几道",
+      "content": "长亭晚送。 都似绿窗前日梦。 小字还家。 恰应红灯昨夜花。 良时易过。 半镜流年春欲破。 往事难忘。 一枕高楼到夕阳。",
+      "analysis": {
+        "date": 1082,
+        "flower": "花",
+        "imagery": [
+          "长亭",
+          "红灯",
+          "流年",
+          "高楼"
+        ]
+      },
+      "source_file": "ci.song.1000.json",
+      "analysis_timestamp": 1760702195.7730944
+    },
+    {
+      "title": "无题",
+      "author": "赵长卿",
+      "content": "春到垂杨，嫩黄染就金丝软。 丽晴新暖。 涌翠千山远。 为甚年年，眉向东风展。 闲消遣。 欲归犹懒。 渔笛天将晚。",
+      "analysis": {
+        "date": 1127,
+        "flower": "垂杨",
+        "imagery": [
+          "垂杨金丝",
+          "千山涌翠",
+          "渔笛晚照"
+        ]
+      },
+      "source_file": "ci.song.10000.json",
+      "analysis_timestamp": 1760702199.6149964
+    },
+    {
+      "title": "无题",
+      "author": "吕胜己",
+      "content": "残梅飘簌簌。 看柳上春归，揉条新绿。 娇莺离幽谷。 弄弹簧清响，飞迁乔木。 年华迅速。 叹浮生、流晖转烛。 自春来、每每遨游，多办九霞醽醁。 溪北。 踏青微步，斗草慵眠，锦裀花褥。 铅华簇簇。 歌声妙、间丝竹。 爱一川好处，高山流水，不减城南杜曲。 笑平生、卓地无锥，老来富足。",
+      "analysis": {
+        "date": 1127,
+        "flower": "梅花",
+        "imagery": [
+          "残梅飘簌簌",
+          "柳上春归",
+          "娇莺迁乔木"
+        ]
+      },
+      "source_file": "ci.song.10000.json",
+      "analysis_timestamp": 1760702203.3039544
+    },
+    {
+      "title": "无题",
+      "author": "辛弃疾",
+      "content": "父老争言雨水匀。 眉头不似去年颦。 殷勤谢却甑中尘。 啼鸟有时能劝客，小桃无赖已撩人。 梨花也作白头新。",
+      "analysis": {
+        "date": 1181,
+        "flower": "小桃, 梨花",
+        "imagery": [
+          "父老言雨",
+          "甑中尘",
+          "白头新"
+        ]
+      },
+      "source_file": "ci.song.11000.json",
+      "analysis_timestamp": 1760702207.4012196
+    },
+    {
+      "title": "无题",
+      "author": "辛弃疾",
+      "content": "妙龄秀发，湛灵台一点，天然奇绝。 万壑千岩归健笔，扫尽平山风月。 雪里疏梅，霜头寒菊，迥与馀花别。 识人青眼，慨然怜我疏拙。 遐想后日娥眉，两山横黛，谈笑风生颊。 握手论文情极处，冰玉一时清洁。 扫断尘劳，招呼萧散，满酌金蕉叶。 醉乡深处，不知天地空阔。",
+      "analysis": {
+        "date": 1167,
+        "flower": "梅、菊",
+        "imagery": [
+          "妙龄秀发",
+          "万壑千岩",
+          "雪里疏梅",
+          "霜头寒菊",
+          "醉乡深处"
+        ]
+      },
+      "source_file": "ci.song.11000.json",
+      "analysis_timestamp": 1760702211.8207772
+    },
+    {
+      "title": "送清道人歸西山",
+      "author": "徐鉉",
+      "content": "嘗憶漱甘醴，洪涯藥臼旁。 今來眇如夢，此景未曾忘。 圭組老無味，林泉路更長。 羨師從此去，當暑扣雲房。",
+      "analysis": {
+        "date": 850,
+        "flower": "",
+        "imagery": [
+          "林泉",
+          "雲房"
+        ]
+      },
+      "source_file": "poet.song.0.json",
+      "analysis_timestamp": 1760702215.1999977
+    },
+    {
+      "title": "逍遥詠  其三",
+      "author": "宋太宗",
+      "content": "恍惚人難曉，天仙語默玄。 修心無道理，終日自忙然。 我命真中趣，長生認宿緣。 機權饒使用，聖事不虛傳。",
+      "analysis": {
+        "date": 1200,
+        "flower": "",
+        "imagery": [
+          "天仙",
+          "修心",
+          "长生",
+          "圣事"
+        ]
+      },
+      "source_file": "poet.song.1000.json",
+      "analysis_timestamp": 1760702232.2811372
+    },
+    {
+      "title": "聽琴",
+      "author": "王元",
+      "content": "拂塵開素匣，有客獨傷時。 古調俗不樂，正聲君自知。 寒泉出澗澀，老檜倚風悲。 縱有來聽者，誰堪繼子期。",
+      "analysis": {
+        "date": 800,
+        "flower": "",
+        "imagery": [
+          "寒泉",
+          "老檜",
+          "古調"
+        ]
+      },
+      "source_file": "poet.song.1000.json",
+      "analysis_timestamp": 1760702235.7391632
+    },
+    {
+      "title": "奉送滁州趙學士",
+      "author": "宋庠",
+      "content": "灼灼書林彥，胡爲江海濱。 希遷杜陵客，出守始平人。 夕夢螭階遠，前驅隼旆新。 離觴君莫愬，去去易沾巾。",
+      "analysis": {
+        "date": 618,
+        "flower": "",
+        "imagery": [
+          "螭階",
+          "隼旆",
+          "離觴",
+          "沾巾"
+        ]
+      },
+      "source_file": "poet.song.10000.json",
+      "analysis_timestamp": 1760702240.2683213
+    },
+    {
+      "title": "晚春出郭游北山佛寺",
+      "author": "宋庠",
+      "content": "幽剎尋春傍翠微，遊人誰解惜芳菲。 陰晴野日不常見，紅白路花相雜飛。 一世功名催俊傑，千金歌舞屬輕肥。 左遷病守真無用，試學山公倒載歸。",
+      "analysis": {
+        "date": 1100,
+        "flower": "花",
+        "imagery": [
+          "幽剎尋春",
+          "紅白路花"
+        ]
+      },
+      "source_file": "poet.song.10000.json",
+      "analysis_timestamp": 1760702244.0006087
+    },
+    {
+      "title": "闺怨词",
+      "author": "白居易",
+      "content": "关山征戍远，闺阁别离难。 苦战应憔悴，寒衣不要宽。",
+      "analysis": {
+        "date": 618,
+        "flower": "",
+        "imagery": [
+          "关山征戍",
+          "闺阁别离",
+          "苦战憔悴",
+          "寒衣"
+        ]
+      },
+      "source_file": "shuimotangshi.json",
+      "analysis_timestamp": 1760702247.6015632
+    },
+    {
+      "title": "登楼",
+      "author": "杜甫",
+      "content": "花近高楼伤客心，万方多难此登临。 锦江春色来天地，玉垒浮云变古今。 北极朝廷终不改，西山寇盗莫相侵。 可怜后主还祠庙，日暮聊为《梁父吟》。",
+      "analysis": {
+        "date": 763,
+        "flower": "花",
+        "imagery": [
+          "高楼",
+          "锦江春色",
+          "玉垒浮云",
+          "祠庙",
+          "梁父吟"
+        ]
+      },
+      "source_file": "shuimotangshi.json",
+      "analysis_timestamp": 1760702251.532217
+    }
+  ]
+}
